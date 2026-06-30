@@ -1,5 +1,7 @@
 # PDF Metadata Extractor
 
+![PDF Metadata Extractor](https://raw.githubusercontent.com/luthfisy/PDF-Metadata-Extractor/master/pdf-metadata-extractor.png)
+
 **PDF File Renamer — Rename PDF files based on metadata title**  
 Rename file PDF otomatis berdasarkan judul dari CrossRef API
 
